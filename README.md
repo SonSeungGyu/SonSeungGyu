@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SonSeungGyu
+- 👋 Hi, I’m SeungGyu
 - 👀 I’m interested in Java Development
 
 
